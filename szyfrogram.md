@@ -1,8 +1,9 @@
 ## Szyfrogram
 
+Tekst do zaszyfrowania jest to wyjęte zdanie z tekstu przygotowanego przez koleżankę z teamu.
 Tekst który będziemy szyfrować: 'The older matters which had made the sculptors dream'.
 
-Teabela plain tekstu to:
+Teabela plain tekstu wygląda następująco:
 
 |1|2|3|4|5|6|
 |t|h|e|o|l|d|
